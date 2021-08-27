@@ -1,4 +1,4 @@
-package com.makotogu;
+package com.makotogu.demo;
 
 import java.util.TreeMap;
 
